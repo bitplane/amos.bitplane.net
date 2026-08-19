@@ -464,13 +464,13 @@
           {
             "name": "Chopper II - Coalition of Nations",
             "id": "games/chopper-ii-coalition-of-nations",
-            "image": "Games.png",
+            "image": "Games/Chopper II - Coalition of Nations.png",
             "folders": [],
             "items": [
               {
                 "id": "games/chopper-ii-coalition-of-nations/chopper2-a",
                 "name": "Chopper2.A",
-                "image": "Games.png",
+                "image": "Games/Chopper II - Coalition of Nations.png",
                 "disk": {
                   "path": "Games/Chopper II - Coalition of Nations/Chopper2.A.adf",
                   "size": 901120,
@@ -483,7 +483,7 @@
               {
                 "id": "games/chopper-ii-coalition-of-nations/chopper2-b",
                 "name": "Chopper2.B",
-                "image": "Games.png",
+                "image": "Games/Chopper II - Coalition of Nations.png",
                 "disk": {
                   "path": "Games/Chopper II - Coalition of Nations/Chopper2.B.adf",
                   "size": 901120,
@@ -547,7 +547,7 @@
           {
             "id": "games/doctor-strange-2-1-0",
             "name": "Doctor Strange 2 1.0",
-            "image": "Games.png",
+            "image": "Games/Doctor Strange 2 1.0.png",
             "disk": {
               "path": "Games/Doctor Strange 2 1.0.adf",
               "size": 901120,
@@ -664,7 +664,7 @@
           {
             "id": "games/frontal-assault-2-80",
             "name": "Frontal Assault 2.80",
-            "image": "Games.png",
+            "image": "Games/Frontal Assault 2.80.png",
             "disk": {
               "path": "Games/Frontal Assault 2.80.zip",
               "size": 658076,
@@ -677,7 +677,7 @@
           {
             "id": "games/knights-2-42",
             "name": "Knights 2.42",
-            "image": "Games.png",
+            "image": "Games/Knights 2.42.png",
             "disk": {
               "path": "Games/Knights 2.42.zip",
               "size": 274647,
