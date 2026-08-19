@@ -147,6 +147,313 @@
         ]
       },
       {
+        "name": "bitplane.net",
+        "id": "bitplane-net",
+        "image": "bitplane.net.png",
+        "folders": [],
+        "items": [
+          {
+            "id": "bitplane-net/bomb-city",
+            "name": "Bomb City",
+            "image": "bitplane.net/Bomb City.png",
+            "disk": {
+              "path": "bitplane.net/Bomb City.zip",
+              "size": 4151,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/boom-shake-the-workshop",
+            "name": "Boom! Shake the Workshop",
+            "image": "bitplane.net/Boom! Shake the Workshop.png",
+            "disk": {
+              "path": "bitplane.net/Boom! Shake the Workshop.zip",
+              "size": 508388,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/circular-zones",
+            "name": "Circular Zones",
+            "image": "bitplane.net/Circular Zones.png",
+            "disk": {
+              "path": "bitplane.net/Circular Zones.zip",
+              "size": 2051,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/draw-n-draw",
+            "name": "Draw 'n' Draw",
+            "image": "bitplane.net/Draw 'n' Draw.png",
+            "disk": {
+              "path": "bitplane.net/Draw 'n' Draw.zip",
+              "size": 7824,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/eggit",
+            "name": "Eggit",
+            "image": "bitplane.net/Eggit.png",
+            "disk": {
+              "path": "bitplane.net/Eggit.zip",
+              "size": 704450,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/faces",
+            "name": "Faces",
+            "image": "bitplane.net/Faces.png",
+            "disk": {
+              "path": "bitplane.net/Faces.zip",
+              "size": 887,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/goldfish",
+            "name": "Goldfish",
+            "image": "bitplane.net/Goldfish.png",
+            "disk": {
+              "path": "bitplane.net/Goldfish.zip",
+              "size": 3533,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/man-dog",
+            "name": "Man Dog",
+            "image": "bitplane.net/Man Dog.png",
+            "disk": {
+              "path": "bitplane.net/Man Dog.zip",
+              "size": 121736,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/matchstick-man",
+            "name": "Matchstick Man",
+            "image": "bitplane.net/Matchstick Man.png",
+            "disk": {
+              "path": "bitplane.net/Matchstick Man.zip",
+              "size": 309843,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/mega-battle",
+            "name": "Mega Battle",
+            "image": "bitplane.net/Mega Battle.png",
+            "disk": {
+              "path": "bitplane.net/Mega Battle.zip",
+              "size": 5124,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/minefield",
+            "name": "Minefield",
+            "image": "bitplane.net/Minefield.png",
+            "disk": {
+              "path": "bitplane.net/Minefield.zip",
+              "size": 1245,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/musicmen",
+            "name": "Musicmen",
+            "image": "bitplane.net/Musicmen.png",
+            "disk": {
+              "path": "bitplane.net/Musicmen.zip",
+              "size": 11826,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/nsle",
+            "name": "NSLE",
+            "image": "bitplane.net/NSLE.png",
+            "disk": {
+              "path": "bitplane.net/NSLE.zip",
+              "size": 216678,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/o-s-and-x-s",
+            "name": "O's and X's",
+            "image": "bitplane.net/O's and X's.png",
+            "disk": {
+              "path": "bitplane.net/O's and X's.zip",
+              "size": 1370,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/operation-q-a-b",
+            "name": "Operation Q.A.B.",
+            "image": "bitplane.net/Operation Q.A.B..png",
+            "disk": {
+              "path": "bitplane.net/Operation Q.A.B..zip",
+              "size": 55115,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/quatrazon",
+            "name": "Quatrazon",
+            "image": "bitplane.net/Quatrazon.png",
+            "disk": {
+              "path": "bitplane.net/Quatrazon.zip",
+              "size": 3497,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/scrawler",
+            "name": "Scrawler",
+            "image": "bitplane.net/Scrawler.png",
+            "disk": {
+              "path": "bitplane.net/Scrawler.zip",
+              "size": 19461,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/space-game",
+            "name": "Space Game",
+            "image": "bitplane.net/Space Game.png",
+            "disk": {
+              "path": "bitplane.net/Space Game.zip",
+              "size": 33672,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/thrusts",
+            "name": "Thrusts",
+            "image": "bitplane.net/Thrusts.png",
+            "disk": {
+              "path": "bitplane.net/Thrusts.zip",
+              "size": 92650,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/ultimate-adventure",
+            "name": "Ultimate Adventure",
+            "image": "bitplane.net/Ultimate Adventure.png",
+            "disk": {
+              "path": "bitplane.net/Ultimate Adventure.zip",
+              "size": 7240,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/viking-saxon-tester",
+            "name": "Viking - Saxon Tester",
+            "image": "bitplane.net/Viking - Saxon Tester.png",
+            "disk": {
+              "path": "bitplane.net/Viking - Saxon Tester.zip",
+              "size": 6858,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/wizzo",
+            "name": "Wizzo",
+            "image": "bitplane.net/Wizzo.png",
+            "disk": {
+              "path": "bitplane.net/Wizzo.zip",
+              "size": 3209,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "bitplane-net/wormy",
+            "name": "Wormy",
+            "image": "bitplane.net/Wormy.png",
+            "disk": {
+              "path": "bitplane.net/Wormy.zip",
+              "size": 127103,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          }
+        ]
+      },
+      {
         "name": "Extensions",
         "id": "extensions",
         "image": "Extensions.png",
