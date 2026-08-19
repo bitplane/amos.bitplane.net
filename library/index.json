@@ -1,107 +1,112 @@
 {
-  "version": 1,
-  "groups": [
-    {
-      "name": "AMOS",
-      "image": "AMOS.png",
-      "items": [
-        {
-          "id": "amos/amos-3d",
-          "name": "AMOS 3D",
-          "group": "AMOS",
-          "image": "AMOS/AMOS 3D.png",
-          "disks": [
-            {
-              "path": "AMOS/AMOS 3D/AMOS_3D.adf",
-              "size": 901120,
-              "label": "AMOS_3D",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 12
-            },
-            {
-              "path": "AMOS/AMOS 3D/OM.adf",
-              "size": 901120,
-              "label": "OM",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 1
-            }
-          ]
-        },
-        {
-          "id": "amos/amos-professional",
-          "name": "AMOS Professional",
-          "group": "AMOS",
-          "image": "AMOS/AMOS Professional.png",
-          "disks": [
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_Productivity2.adf",
-              "size": 901120,
-              "label": "AMOSPro_Productivity2",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 51
-            },
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_System.adf",
-              "size": 901120,
-              "label": "AMOSPro_System",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 3
-            },
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_Accessories.adf",
-              "size": 901120,
-              "label": "AMOSPro_Accessories",
-              "filesystem": "OFS",
-              "bootable": false,
-              "programs": 9
-            },
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_Examples.adf",
-              "size": 901120,
-              "label": "AMOSPro_Examples",
-              "filesystem": "OFS",
-              "bootable": false,
-              "programs": 84
-            },
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_Productivity1.adf",
-              "size": 901120,
-              "label": "AMOSPro_Productivity1",
-              "filesystem": "OFS",
-              "bootable": false,
-              "programs": 7
-            },
-            {
-              "path": "AMOS/AMOS Professional/AMOSPro_Tutorial.adf",
-              "size": 901120,
-              "label": "AMOSPro_Tutorial",
-              "filesystem": "OFS",
-              "bootable": false,
-              "programs": 41
-            }
-          ]
-        },
-        {
-          "id": "amos/amos",
-          "name": "AMOS",
-          "group": "AMOS",
-          "image": "AMOS/AMOS.png",
-          "disks": [
-            {
-              "path": "AMOS/AMOS.adf",
-              "size": 901120,
-              "label": "AMOS",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 99
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "version": 2,
+  "root": {
+    "name": "",
+    "id": "",
+    "image": null,
+    "folders": [
+      {
+        "name": "AMOS",
+        "id": "amos",
+        "image": "AMOS.png",
+        "folders": [],
+        "items": [
+          {
+            "id": "amos/amos-3d",
+            "name": "AMOS 3D",
+            "image": "AMOS/AMOS 3D.png",
+            "disks": [
+              {
+                "path": "AMOS/AMOS 3D/AMOS_3D.adf",
+                "size": 901120,
+                "label": "AMOS_3D",
+                "filesystem": "OFS",
+                "bootable": true,
+                "programs": 12
+              },
+              {
+                "path": "AMOS/AMOS 3D/OM.adf",
+                "size": 901120,
+                "label": "OM",
+                "filesystem": "OFS",
+                "bootable": true,
+                "programs": 1
+              }
+            ]
+          },
+          {
+            "id": "amos/amos-professional",
+            "name": "AMOS Professional",
+            "image": "AMOS/AMOS Professional.png",
+            "disks": [
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_Productivity2.adf",
+                "size": 901120,
+                "label": "AMOSPro_Productivity2",
+                "filesystem": "OFS",
+                "bootable": true,
+                "programs": 51
+              },
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_System.adf",
+                "size": 901120,
+                "label": "AMOSPro_System",
+                "filesystem": "OFS",
+                "bootable": true,
+                "programs": 3
+              },
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_Accessories.adf",
+                "size": 901120,
+                "label": "AMOSPro_Accessories",
+                "filesystem": "OFS",
+                "bootable": false,
+                "programs": 9
+              },
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_Examples.adf",
+                "size": 901120,
+                "label": "AMOSPro_Examples",
+                "filesystem": "OFS",
+                "bootable": false,
+                "programs": 84
+              },
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_Productivity1.adf",
+                "size": 901120,
+                "label": "AMOSPro_Productivity1",
+                "filesystem": "OFS",
+                "bootable": false,
+                "programs": 7
+              },
+              {
+                "path": "AMOS/AMOS Professional/AMOSPro_Tutorial.adf",
+                "size": 901120,
+                "label": "AMOSPro_Tutorial",
+                "filesystem": "OFS",
+                "bootable": false,
+                "programs": 41
+              }
+            ]
+          },
+          {
+            "id": "amos/amos",
+            "name": "AMOS",
+            "image": "AMOS/AMOS.png",
+            "disks": [
+              {
+                "path": "AMOS/AMOS.adf",
+                "size": 901120,
+                "label": "AMOS",
+                "filesystem": "OFS",
+                "bootable": true,
+                "programs": 99
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "items": []
+  }
 }
