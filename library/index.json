@@ -498,13 +498,13 @@
           {
             "name": "Dungeon Delver",
             "id": "games/dungeon-delver",
-            "image": "Games.png",
+            "image": "Games/Dungeon Delver.png",
             "folders": [],
             "items": [
               {
                 "id": "games/dungeon-delver/delver2",
                 "name": "Delver2",
-                "image": "Games.png",
+                "image": "Games/Dungeon Delver.png",
                 "disk": {
                   "path": "Games/Dungeon Delver/Delver2.adf",
                   "size": 901120,
@@ -517,7 +517,7 @@
               {
                 "id": "games/dungeon-delver/dungeondelver",
                 "name": "DungeonDelver",
-                "image": "Games.png",
+                "image": "Games/Dungeon Delver.png",
                 "disk": {
                   "path": "Games/Dungeon Delver/DungeonDelver.adf",
                   "size": 901120,
