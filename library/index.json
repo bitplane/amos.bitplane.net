@@ -388,6 +388,148 @@
             }
           }
         ]
+      },
+      {
+        "name": "Games",
+        "id": "games",
+        "image": "Games.png",
+        "folders": [
+          {
+            "name": "Alien Pong Trilogy 2",
+            "id": "games/alien-pong-trilogy-2",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/alien-pong-trilogy-2/disk1",
+                "name": "Disk1",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Alien Pong Trilogy 2/Disk1.adf",
+                  "size": 901120,
+                  "label": "Disk1",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              },
+              {
+                "id": "games/alien-pong-trilogy-2/disk2",
+                "name": "Disk2",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Alien Pong Trilogy 2/Disk2.adf",
+                  "size": 901120,
+                  "label": "Disk2",
+                  "filesystem": "FFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              }
+            ]
+          },
+          {
+            "name": "Ant Wars 1.1",
+            "id": "games/ant-wars-1-1",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/ant-wars-1-1/ant-war1",
+                "name": "Ant_War1",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Ant Wars 1.1/Ant_War1.adf",
+                  "size": 901120,
+                  "label": "Ant_War1",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 2
+                }
+              },
+              {
+                "id": "games/ant-wars-1-1/ant-war2",
+                "name": "Ant_War2",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Ant Wars 1.1/Ant_War2.adf",
+                  "size": 901120,
+                  "label": "Ant_War2",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 3
+                }
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": "games/boing-3-0",
+            "name": "Boing 3.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Boing 3.0.adf",
+              "size": 901120,
+              "label": "BOING",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/renegades",
+            "name": "Renegades",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Renegades.adf",
+              "size": 901120,
+              "label": "MAINDISK",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/firepower-1-01",
+            "name": "FirePower 1.01",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/FirePower 1.01.zip",
+              "size": 336791,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/frontal-assault-2-80",
+            "name": "Frontal Assault 2.80",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Frontal Assault 2.80.zip",
+              "size": 658076,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/knights-2-42",
+            "name": "Knights 2.42",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Knights 2.42.zip",
+              "size": 274647,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          }
+        ]
       }
     ],
     "items": []
