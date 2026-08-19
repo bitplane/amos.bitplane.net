@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "root": {
     "name": "",
     "id": "",
@@ -9,100 +9,383 @@
         "name": "AMOS",
         "id": "amos",
         "image": "AMOS.png",
-        "folders": [],
-        "items": [
+        "folders": [
           {
-            "id": "amos/amos-3d",
             "name": "AMOS 3D",
+            "id": "amos/amos-3d",
             "image": "AMOS/AMOS 3D.png",
-            "disks": [
+            "folders": [],
+            "items": [
               {
-                "path": "AMOS/AMOS 3D/AMOS_3D.adf",
-                "size": 901120,
-                "label": "AMOS_3D",
-                "filesystem": "OFS",
-                "bootable": true,
-                "programs": 12
+                "id": "amos/amos-3d/amos-3d",
+                "name": "AMOS_3D",
+                "image": "AMOS/AMOS 3D.png",
+                "disk": {
+                  "path": "AMOS/AMOS 3D/AMOS_3D.adf",
+                  "size": 901120,
+                  "label": "AMOS_3D",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 12
+                }
               },
               {
-                "path": "AMOS/AMOS 3D/OM.adf",
-                "size": 901120,
-                "label": "OM",
-                "filesystem": "OFS",
-                "bootable": true,
-                "programs": 1
+                "id": "amos/amos-3d/om",
+                "name": "OM",
+                "image": "AMOS/AMOS 3D.png",
+                "disk": {
+                  "path": "AMOS/AMOS 3D/OM.adf",
+                  "size": 901120,
+                  "label": "OM",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 1
+                }
               }
             ]
           },
           {
-            "id": "amos/amos-professional",
             "name": "AMOS Professional",
+            "id": "amos/amos-professional",
             "image": "AMOS/AMOS Professional.png",
-            "disks": [
+            "folders": [],
+            "items": [
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_Productivity2.adf",
-                "size": 901120,
-                "label": "AMOSPro_Productivity2",
-                "filesystem": "OFS",
-                "bootable": true,
-                "programs": 51
+                "id": "amos/amos-professional/amospro-productivity2",
+                "name": "AMOSPro_Productivity2",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_Productivity2.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_Productivity2",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 51
+                }
               },
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_System.adf",
-                "size": 901120,
-                "label": "AMOSPro_System",
-                "filesystem": "OFS",
-                "bootable": true,
-                "programs": 3
+                "id": "amos/amos-professional/amospro-system",
+                "name": "AMOSPro_System",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_System.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_System",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 3
+                }
               },
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_Accessories.adf",
-                "size": 901120,
-                "label": "AMOSPro_Accessories",
-                "filesystem": "OFS",
-                "bootable": false,
-                "programs": 9
+                "id": "amos/amos-professional/amospro-accessories",
+                "name": "AMOSPro_Accessories",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_Accessories.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_Accessories",
+                  "filesystem": "OFS",
+                  "bootable": false,
+                  "programs": 9
+                }
               },
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_Examples.adf",
-                "size": 901120,
-                "label": "AMOSPro_Examples",
-                "filesystem": "OFS",
-                "bootable": false,
-                "programs": 84
+                "id": "amos/amos-professional/amospro-examples",
+                "name": "AMOSPro_Examples",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_Examples.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_Examples",
+                  "filesystem": "OFS",
+                  "bootable": false,
+                  "programs": 84
+                }
               },
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_Productivity1.adf",
-                "size": 901120,
-                "label": "AMOSPro_Productivity1",
-                "filesystem": "OFS",
-                "bootable": false,
-                "programs": 7
+                "id": "amos/amos-professional/amospro-productivity1",
+                "name": "AMOSPro_Productivity1",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_Productivity1.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_Productivity1",
+                  "filesystem": "OFS",
+                  "bootable": false,
+                  "programs": 7
+                }
               },
               {
-                "path": "AMOS/AMOS Professional/AMOSPro_Tutorial.adf",
-                "size": 901120,
-                "label": "AMOSPro_Tutorial",
-                "filesystem": "OFS",
-                "bootable": false,
-                "programs": 41
+                "id": "amos/amos-professional/amospro-tutorial",
+                "name": "AMOSPro_Tutorial",
+                "image": "AMOS/AMOS Professional.png",
+                "disk": {
+                  "path": "AMOS/AMOS Professional/AMOSPro_Tutorial.adf",
+                  "size": 901120,
+                  "label": "AMOSPro_Tutorial",
+                  "filesystem": "OFS",
+                  "bootable": false,
+                  "programs": 41
+                }
               }
             ]
-          },
+          }
+        ],
+        "items": [
           {
             "id": "amos/amos",
             "name": "AMOS",
             "image": "AMOS/AMOS.png",
-            "disks": [
-              {
-                "path": "AMOS/AMOS.adf",
-                "size": 901120,
-                "label": "AMOS",
-                "filesystem": "OFS",
-                "bootable": true,
-                "programs": 99
-              }
-            ]
+            "disk": {
+              "path": "AMOS/AMOS.adf",
+              "size": 901120,
+              "label": "AMOS",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 99
+            }
+          }
+        ]
+      },
+      {
+        "name": "Extensions",
+        "id": "extensions",
+        "image": "Extensions.png",
+        "folders": [],
+        "items": [
+          {
+            "id": "extensions/amcaf150final",
+            "name": "AMCAF150Final",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/AMCAF150Final.lha",
+              "size": 517342,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/amosp61ext",
+            "name": "AMOSP61Ext",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/AMOSP61Ext.lha",
+              "size": 18652,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/amospro-delta",
+            "name": "AMOSPro_Delta",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/AMOSPro_Delta.lha",
+              "size": 178411,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/butility",
+            "name": "BUtility",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/BUtility.lha",
+              "size": 56912,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/ercole-ext",
+            "name": "Ercole_ext",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/Ercole_ext.lha",
+              "size": 4253,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/gamesupport",
+            "name": "GameSupport",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/GameSupport.lha",
+              "size": 87077,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/guiext162",
+            "name": "GuiExt162",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/GuiExt162.lha",
+              "size": 127346,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/intuiextend20b",
+            "name": "IntuiExtend20b",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/IntuiExtend20b.lha",
+              "size": 418712,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/jdlib4-6",
+            "name": "jdlib4_6",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/jdlib4_6.lha",
+              "size": 275914,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/localeext",
+            "name": "localeext",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/localeext.lha",
+              "size": 8758,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/medext71",
+            "name": "medext71",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/medext71.lha",
+              "size": 43487,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/miscext",
+            "name": "MiscExt",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/MiscExt.lha",
+              "size": 5370,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/personnaldemo",
+            "name": "PersonnalDEMO",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/PersonnalDEMO.lha",
+              "size": 370156,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/stars",
+            "name": "stars",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/stars.lha",
+              "size": 7255,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/symbase",
+            "name": "SymBase",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/SymBase.lha",
+              "size": 201898,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/tft-extension",
+            "name": "TFT_Extension",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/TFT_Extension.lha",
+              "size": 28008,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/tome4proupdate",
+            "name": "TOME4ProUpdate",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/TOME4ProUpdate.lha",
+              "size": 114841,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "extensions/tools",
+            "name": "Tools",
+            "image": "Extensions.png",
+            "disk": {
+              "path": "Extensions/Tools.lha",
+              "size": 6820,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
           }
         ]
       }
