@@ -461,6 +461,74 @@
                 }
               }
             ]
+          },
+          {
+            "name": "Chopper II - Coalition of Nations",
+            "id": "games/chopper-ii-coalition-of-nations",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/chopper-ii-coalition-of-nations/chopper2-a",
+                "name": "Chopper2.A",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Chopper II - Coalition of Nations/Chopper2.A.adf",
+                  "size": 901120,
+                  "label": "Chopper2.A",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 1
+                }
+              },
+              {
+                "id": "games/chopper-ii-coalition-of-nations/chopper2-b",
+                "name": "Chopper2.B",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Chopper II - Coalition of Nations/Chopper2.B.adf",
+                  "size": 901120,
+                  "label": "Chopper2.B",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              }
+            ]
+          },
+          {
+            "name": "Dungeon Delver",
+            "id": "games/dungeon-delver",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/dungeon-delver/delver2",
+                "name": "Delver2",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Dungeon Delver/Delver2.adf",
+                  "size": 901120,
+                  "label": "Delver2",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              },
+              {
+                "id": "games/dungeon-delver/dungeondelver",
+                "name": "DungeonDelver",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Dungeon Delver/DungeonDelver.adf",
+                  "size": 901120,
+                  "label": "DungeonDelver",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 1
+                }
+              }
+            ]
           }
         ],
         "items": [
@@ -478,6 +546,58 @@
             }
           },
           {
+            "id": "games/doctor-strange-2-1-0",
+            "name": "Doctor Strange 2 1.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Doctor Strange 2 1.0.adf",
+              "size": 901120,
+              "label": "DoctorStrange2",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 2
+            }
+          },
+          {
+            "id": "games/gush-1-20",
+            "name": "Gush 1.20",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Gush 1.20.adf",
+              "size": 901120,
+              "label": "Gush",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/hyperball-1-00",
+            "name": "Hyperball 1.00",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Hyperball 1.00.adf",
+              "size": 901120,
+              "label": "Hyperball",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 4
+            }
+          },
+          {
+            "id": "games/matrix-blaster",
+            "name": "Matrix Blaster",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Matrix Blaster.adf",
+              "size": 901120,
+              "label": "MatrixBlaster",
+              "filesystem": "FFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
             "id": "games/renegades",
             "name": "Renegades",
             "image": "Games.png",
@@ -485,6 +605,45 @@
               "path": "Games/Renegades.adf",
               "size": 901120,
               "label": "MAINDISK",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/ricochet-2-0",
+            "name": "Ricochet 2.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Ricochet 2.0.adf",
+              "size": 901120,
+              "label": "Ricochet_Disc",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/teratris-3-0-beta",
+            "name": "Teratris 3.0 beta",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Teratris 3.0 beta.adf",
+              "size": 901120,
+              "label": "TERATRIS_Demo",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/the-great-escape-of-billy-burglar",
+            "name": "The Great Escape of Billy Burglar",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/The Great Escape of Billy Burglar.adf",
+              "size": 901120,
+              "label": "Escape",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
