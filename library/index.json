@@ -1,5 +1,4 @@
 {
-  "version": 3,
   "root": {
     "name": "",
     "id": "",
@@ -574,7 +573,7 @@
           {
             "id": "games/hyperball-1-00",
             "name": "Hyperball 1.00",
-            "image": "Games.png",
+            "image": "Games/Hyperball 1.00.png",
             "disk": {
               "path": "Games/Hyperball 1.00.adf",
               "size": 901120,
@@ -613,7 +612,7 @@
           {
             "id": "games/ricochet-2-0",
             "name": "Ricochet 2.0",
-            "image": "Games.png",
+            "image": "Games/Ricochet 2.0.png",
             "disk": {
               "path": "Games/Ricochet 2.0.adf",
               "size": 901120,
@@ -639,7 +638,7 @@
           {
             "id": "games/the-great-escape-of-billy-burglar",
             "name": "The Great Escape of Billy Burglar",
-            "image": "Games.png",
+            "image": "Games/The Great Escape of Billy Burglar.png",
             "disk": {
               "path": "Games/The Great Escape of Billy Burglar.adf",
               "size": 901120,
