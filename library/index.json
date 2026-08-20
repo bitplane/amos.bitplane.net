@@ -1417,12 +1417,194 @@
             }
           },
           {
+            "id": "games/3d-spaceships",
+            "name": "3D Spaceships",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/3D Spaceships.lha",
+              "size": 11352,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/adb-s-games-volume-1",
+            "name": "ADB's Games Volume 1",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/ADB's Games Volume 1.lha",
+              "size": 347701,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/adb-s-games-volume-2",
+            "name": "ADB's Games Volume 2",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/ADB's Games Volume 2.lha",
+              "size": 1175836,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/alien-breed-iii",
+            "name": "Alien Breed III",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Alien Breed III.lha",
+              "size": 15077,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/amotrix",
+            "name": "Amotrix",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Amotrix.zip",
+              "size": 71681,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/apfelmonster",
+            "name": "Apfelmonster",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Apfelmonster.zip",
+              "size": 55416,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/ben-3d",
+            "name": "Ben 3D",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Ben 3D.zip",
+              "size": 55001,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/crack-out",
+            "name": "Crack Out!",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Crack Out!.zip",
+              "size": 386032,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/death-ride-2-0",
+            "name": "Death Ride 2.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Death Ride 2.0.lha",
+              "size": 841735,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/dizzy-clone",
+            "name": "Dizzy Clone",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Dizzy Clone.lha",
+              "size": 47440,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/dragon",
+            "name": "Dragon",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Dragon.lha",
+              "size": 201800,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/dungeon-walk",
+            "name": "Dungeon Walk",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Dungeon Walk.lha",
+              "size": 192555,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
             "id": "games/firepower-1-01",
             "name": "FirePower 1.01",
             "image": "Games/FirePower 1.01.png",
             "disk": {
               "path": "Games/FirePower 1.01.zip",
               "size": 336791,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/flight-preflight-check",
+            "name": "Flight - Preflight Check",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Flight - Preflight Check.lha",
+              "size": 912,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/free-trading-company",
+            "name": "Free Trading Company",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Free Trading Company.zip",
+              "size": 364951,
               "label": null,
               "filesystem": null,
               "bootable": false,
@@ -1443,12 +1625,155 @@
             }
           },
           {
+            "id": "games/galax",
+            "name": "Galax",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Galax.lha",
+              "size": 110429,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
             "id": "games/knights-2-42",
             "name": "Knights 2.42",
             "image": "Games/Knights 2.42.png",
             "disk": {
               "path": "Games/Knights 2.42.zip",
               "size": 274647,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/land-of-magic",
+            "name": "Land of Magic",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Land of Magic.zip",
+              "size": 535085,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/megatron",
+            "name": "MegaTron",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/MegaTron.zip",
+              "size": 153915,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/morbith-mini-games",
+            "name": "Morbith Mini Games",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Morbith Mini Games.lha",
+              "size": 83764,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/ninja-mission-and-war-in-makeria",
+            "name": "Ninja Mission and War in Makeria",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Ninja Mission and War in Makeria.lha",
+              "size": 186352,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/space-fighter",
+            "name": "Space Fighter",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Space Fighter.lha",
+              "size": 55608,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/strike-commander",
+            "name": "Strike Commander",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Strike Commander.zip",
+              "size": 213251,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/tank-action",
+            "name": "Tank Action",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Tank Action.zip",
+              "size": 16462,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/the-final-battle",
+            "name": "The Final Battle",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/The Final Battle.zip",
+              "size": 182704,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/tubes",
+            "name": "Tubes",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Tubes.zip",
+              "size": 378698,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "games/vargolle",
+            "name": "Vargolle",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Vargolle.lha",
+              "size": 55909,
               "label": null,
               "filesystem": null,
               "bootable": false,
@@ -1474,6 +1799,448 @@
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
+            }
+          },
+          {
+            "id": "utils/adb-s-tools-and-code-volume-3",
+            "name": "ADB's Tools and Code Volume 3",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/ADB's Tools and Code Volume 3.lha",
+              "size": 928016,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/amos-accessories",
+            "name": "AMOS Accessories",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/AMOS Accessories.lha",
+              "size": 6935,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/amos-grab",
+            "name": "AMOS Grab",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/AMOS Grab.lha",
+              "size": 3049,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/amos-iff-aga",
+            "name": "AMOS IFF AGA",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/AMOS IFF AGA.lha",
+              "size": 51511,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/amos-iff-to-aga",
+            "name": "AMOS IFF to AGA",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/AMOS IFF to AGA.lha",
+              "size": 51511,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/amos-utilities",
+            "name": "AMOS Utilities",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/AMOS Utilities.lha",
+              "size": 2162,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/anim-flipper",
+            "name": "Anim Flipper",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Anim Flipper.lha",
+              "size": 29986,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/anim-to-bob",
+            "name": "Anim to Bob",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Anim to Bob.lha",
+              "size": 9854,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/art-coder",
+            "name": "Art Coder",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Art Coder.lha",
+              "size": 71761,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/colpectius-1-1",
+            "name": "Colpectius 1.1",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Colpectius 1.1.lha",
+              "size": 26428,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/deluxe-map-2-1",
+            "name": "Deluxe Map 2.1",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Deluxe Map 2.1.lha",
+              "size": 289363,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/dirdropper",
+            "name": "DirDropper",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/DirDropper.lha",
+              "size": 48452,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/djmix",
+            "name": "DJMix",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/DJMix.lha",
+              "size": 90762,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/dmod-module-player",
+            "name": "DMOD Module Player",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/DMOD Module Player.lha",
+              "size": 93653,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/fluxpaint",
+            "name": "FluxPaint",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/FluxPaint.lha",
+              "size": 71808,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/hotspot-changer",
+            "name": "HotSpot Changer",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/HotSpot Changer.lha",
+              "size": 1352,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/iff-to-amos-source",
+            "name": "IFF to AMOS Source",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/IFF to AMOS Source.lha",
+              "size": 80756,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/italian-adventure-creator",
+            "name": "Italian Adventure Creator",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Italian Adventure Creator.lha",
+              "size": 133110,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/labyrinth-maker",
+            "name": "Labyrinth Maker",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Labyrinth Maker.lha",
+              "size": 48058,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/modifile",
+            "name": "Modifile",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Modifile.lha",
+              "size": 75668,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/national-lottery-winner-2-81",
+            "name": "National Lottery Winner 2.81",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/National Lottery Winner 2.81.lha",
+              "size": 116177,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/noise-generator",
+            "name": "Noise Generator",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Noise Generator.lha",
+              "size": 2028,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/platform-game-engine-0-34",
+            "name": "Platform Game Engine 0.34",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Platform Game Engine 0.34.lha",
+              "size": 91565,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/rainmaker-2-demo",
+            "name": "RainMaker 2 Demo",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/RainMaker 2 Demo.lha",
+              "size": 37425,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/randomplay",
+            "name": "RandomPlay",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/RandomPlay.lha",
+              "size": 705,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/raster-master-1-6",
+            "name": "Raster Master 1.6",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Raster Master 1.6.lha",
+              "size": 115489,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/resource-bank-maker-2-3",
+            "name": "Resource Bank Maker 2.3",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Resource Bank Maker 2.3.lha",
+              "size": 45753,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/screened-2-2",
+            "name": "ScreenEd 2.2",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/ScreenEd 2.2.lha",
+              "size": 93616,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/stefano-regattin-amos-programs",
+            "name": "Stefano Regattin AMOS Programs",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Stefano Regattin AMOS Programs.lha",
+              "size": 408044,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/stormcrunch-2",
+            "name": "StormCrunch 2",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/StormCrunch 2.lha",
+              "size": 92948,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/vt100-terminal",
+            "name": "VT100 Terminal",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/VT100 Terminal.lha",
+              "size": 61300,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/wavetable-generator",
+            "name": "Wavetable Generator",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Wavetable Generator.lha",
+              "size": 4266,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/wial",
+            "name": "Wial",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Wial.zip",
+              "size": 739113,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
+            }
+          },
+          {
+            "id": "utils/zone-editor-3",
+            "name": "Zone Editor 3",
+            "image": "Utils.png",
+            "disk": {
+              "path": "Utils/Zone Editor 3.lha",
+              "size": 66207,
+              "label": null,
+              "filesystem": null,
+              "bootable": false,
+              "programs": 0
             }
           }
         ]
