@@ -701,6 +701,40 @@
         "image": "Games.png",
         "folders": [
           {
+            "name": "18th Hole",
+            "id": "games/18th-hole",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/18th-hole/amos",
+                "name": "AMOS",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/18th Hole/AMOS.adf",
+                  "size": 901120,
+                  "label": "AMOS",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 1
+                }
+              },
+              {
+                "id": "games/18th-hole/empty",
+                "name": "Empty",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/18th Hole/Empty.adf",
+                  "size": 901120,
+                  "label": "Empty",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              }
+            ]
+          },
+          {
             "name": "Alien Pong Trilogy 2",
             "id": "games/alien-pong-trilogy-2",
             "image": "Games.png",
@@ -835,9 +869,90 @@
                 }
               }
             ]
+          },
+          {
+            "name": "Jigsaw!",
+            "id": "games/jigsaw",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/jigsaw/jigsaw-disk-1",
+                "name": "Jigsaw_Disk_1",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Jigsaw!/Jigsaw_Disk_1.adf",
+                  "size": 901120,
+                  "label": "Jigsaw_Disk_1",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 5
+                }
+              },
+              {
+                "id": "games/jigsaw/jigsaw-disk-2",
+                "name": "Jigsaw_Disk_2",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Jigsaw!/Jigsaw_Disk_2.adf",
+                  "size": 901120,
+                  "label": "Jigsaw_Disk_2",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 1
+                }
+              }
+            ]
+          },
+          {
+            "name": "Legions of Dawn",
+            "id": "games/legions-of-dawn",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/legions-of-dawn/installer",
+                "name": "Installer",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Legions of Dawn/Installer.adf",
+                  "size": 901120,
+                  "label": "Installer",
+                  "filesystem": "FFS",
+                  "bootable": true,
+                  "programs": 2
+                }
+              },
+              {
+                "id": "games/legions-of-dawn/lodawnii",
+                "name": "LoDawnII",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Legions of Dawn/LoDawnII.adf",
+                  "size": 901120,
+                  "label": "LoDawnII",
+                  "filesystem": "FFS",
+                  "bootable": true,
+                  "programs": 2
+                }
+              }
+            ]
           }
         ],
         "items": [
+          {
+            "id": "games/battlements-true-confessions-of-a-hunchback",
+            "name": "Battlements - True Confessions of a Hunchback",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Battlements - True Confessions of a Hunchback.adf",
+              "size": 901120,
+              "label": "Battlements",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
           {
             "id": "games/boing-3-0",
             "name": "Boing 3.0",
@@ -846,6 +961,19 @@
               "path": "Games/Boing 3.0.adf",
               "size": 901120,
               "label": "BOING",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/crystal-caverns",
+            "name": "Crystal Caverns",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Crystal Caverns.adf",
+              "size": 901120,
+              "label": "Crystal Caverns",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
@@ -862,6 +990,19 @@
               "filesystem": "OFS",
               "bootable": true,
               "programs": 2
+            }
+          },
+          {
+            "id": "games/gunfighter",
+            "name": "Gunfighter",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Gunfighter.adf",
+              "size": 901120,
+              "label": "Gunfighter",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
             }
           },
           {
@@ -904,6 +1045,32 @@
             }
           },
           {
+            "id": "games/mr-dig",
+            "name": "Mr. Dig",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Mr. Dig.adf",
+              "size": 901120,
+              "label": "Mr Dig",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/qboid",
+            "name": "Qboid",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Qboid.adf",
+              "size": 901120,
+              "label": "Q-boid",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
             "id": "games/renegades",
             "name": "Renegades",
             "image": "Games.png",
@@ -924,6 +1091,32 @@
               "path": "Games/Ricochet 2.0.adf",
               "size": 901120,
               "label": "Ricochet_Disc",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/roach-motel",
+            "name": "Roach Motel",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Roach Motel.adf",
+              "size": 901120,
+              "label": "RoachMotel!",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/tank-battle",
+            "name": "Tank Battle",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Tank Battle.adf",
+              "size": 901120,
+              "label": "Tank Battle",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
