@@ -1146,7 +1146,7 @@
           {
             "id": "games/gush-1-20",
             "name": "Gush 1.20",
-            "image": "Games.png",
+            "image": "Games/Gush 1.20.png",
             "disk": {
               "path": "Games/Gush 1.20.adf",
               "size": 901120,
@@ -1328,7 +1328,7 @@
           {
             "id": "games/renegades",
             "name": "Renegades",
-            "image": "Games.png",
+            "image": "Games/Renegades.png",
             "disk": {
               "path": "Games/Renegades.adf",
               "size": 901120,
@@ -1588,7 +1588,7 @@
           {
             "id": "games/flight-preflight-check",
             "name": "Flight - Preflight Check",
-            "image": "Games.png",
+            "image": "Games/Flight - Preflight Check.png",
             "disk": {
               "path": "Games/Flight - Preflight Check.lha",
               "size": 912,
@@ -1627,7 +1627,7 @@
           {
             "id": "games/galax",
             "name": "Galax",
-            "image": "Games.png",
+            "image": "Games/Galax.png",
             "disk": {
               "path": "Games/Galax.lha",
               "size": 110429,
@@ -1653,7 +1653,7 @@
           {
             "id": "games/land-of-magic",
             "name": "Land of Magic",
-            "image": "Games.png",
+            "image": "Games/Land of Magic.png",
             "disk": {
               "path": "Games/Land of Magic.zip",
               "size": 535085,
@@ -1679,7 +1679,7 @@
           {
             "id": "games/morbith-mini-games",
             "name": "Morbith Mini Games",
-            "image": "Games.png",
+            "image": "Games/Morbith Mini Games.png",
             "disk": {
               "path": "Games/Morbith Mini Games.lha",
               "size": 83764,
@@ -1705,7 +1705,7 @@
           {
             "id": "games/space-fighter",
             "name": "Space Fighter",
-            "image": "Games.png",
+            "image": "Games/Space Fighter.png",
             "disk": {
               "path": "Games/Space Fighter.lha",
               "size": 55608,
@@ -1934,7 +1934,7 @@
           {
             "id": "utils/deluxe-map-2-1",
             "name": "Deluxe Map 2.1",
-            "image": "Utils.png",
+            "image": "Utils/Deluxe Map 2.1.png",
             "disk": {
               "path": "Utils/Deluxe Map 2.1.lha",
               "size": 289363,
