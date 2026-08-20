@@ -703,13 +703,13 @@
           {
             "name": "18th Hole",
             "id": "games/18th-hole",
-            "image": "Games.png",
+            "image": "Games/18th Hole.png",
             "folders": [],
             "items": [
               {
                 "id": "games/18th-hole/amos",
                 "name": "AMOS",
-                "image": "Games.png",
+                "image": "Games/18th Hole.png",
                 "disk": {
                   "path": "Games/18th Hole/AMOS.adf",
                   "size": 901120,
@@ -722,7 +722,7 @@
               {
                 "id": "games/18th-hole/empty",
                 "name": "Empty",
-                "image": "Games.png",
+                "image": "Games/18th Hole.png",
                 "disk": {
                   "path": "Games/18th Hole/Empty.adf",
                   "size": 901120,
@@ -737,13 +737,13 @@
           {
             "name": "Alien Pong Trilogy 2",
             "id": "games/alien-pong-trilogy-2",
-            "image": "Games.png",
+            "image": "Games/Alien Pong Trilogy 2.png",
             "folders": [],
             "items": [
               {
                 "id": "games/alien-pong-trilogy-2/disk1",
                 "name": "Disk1",
-                "image": "Games.png",
+                "image": "Games/Alien Pong Trilogy 2.png",
                 "disk": {
                   "path": "Games/Alien Pong Trilogy 2/Disk1.adf",
                   "size": 901120,
@@ -756,7 +756,7 @@
               {
                 "id": "games/alien-pong-trilogy-2/disk2",
                 "name": "Disk2",
-                "image": "Games.png",
+                "image": "Games/Alien Pong Trilogy 2.png",
                 "disk": {
                   "path": "Games/Alien Pong Trilogy 2/Disk2.adf",
                   "size": 901120,
@@ -871,15 +871,49 @@
             ]
           },
           {
+            "name": "Henry's House",
+            "id": "games/henry-s-house",
+            "image": "Games.png",
+            "folders": [],
+            "items": [
+              {
+                "id": "games/henry-s-house/henry-s-house",
+                "name": "Henry's_House",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Henry's House/Henry's_House.adf",
+                  "size": 901120,
+                  "label": "Henry's_House",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              },
+              {
+                "id": "games/henry-s-house/henry-s-housed2",
+                "name": "Henry's_HouseD2",
+                "image": "Games.png",
+                "disk": {
+                  "path": "Games/Henry's House/Henry's_HouseD2.adf",
+                  "size": 901120,
+                  "label": "Henry's_HouseD2",
+                  "filesystem": "OFS",
+                  "bootable": true,
+                  "programs": 0
+                }
+              }
+            ]
+          },
+          {
             "name": "Jigsaw!",
             "id": "games/jigsaw",
-            "image": "Games.png",
+            "image": "Games/Jigsaw!.png",
             "folders": [],
             "items": [
               {
                 "id": "games/jigsaw/jigsaw-disk-1",
                 "name": "Jigsaw_Disk_1",
-                "image": "Games.png",
+                "image": "Games/Jigsaw!.png",
                 "disk": {
                   "path": "Games/Jigsaw!/Jigsaw_Disk_1.adf",
                   "size": 901120,
@@ -892,7 +926,7 @@
               {
                 "id": "games/jigsaw/jigsaw-disk-2",
                 "name": "Jigsaw_Disk_2",
-                "image": "Games.png",
+                "image": "Games/Jigsaw!.png",
                 "disk": {
                   "path": "Games/Jigsaw!/Jigsaw_Disk_2.adf",
                   "size": 901120,
@@ -941,9 +975,61 @@
         ],
         "items": [
           {
+            "id": "games/4-way-lynx-1-11",
+            "name": "4-Way Lynx 1.11",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/4-Way Lynx 1.11.adf",
+              "size": 901120,
+              "label": "Lynx",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 2
+            }
+          },
+          {
+            "id": "games/ambassador-pro-fruit-machine",
+            "name": "Ambassador Pro Fruit Machine",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Ambassador Pro Fruit Machine.adf",
+              "size": 901120,
+              "label": "AmbassadorPRO",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/apple-catcher",
+            "name": "Apple Catcher",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Apple Catcher.adf",
+              "size": 901120,
+              "label": "apple catcher",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/arcadia",
+            "name": "Arcadia",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Arcadia.adf",
+              "size": 901120,
+              "label": "PD",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 3
+            }
+          },
+          {
             "id": "games/battlements-true-confessions-of-a-hunchback",
             "name": "Battlements - True Confessions of a Hunchback",
-            "image": "Games.png",
+            "image": "Games/Battlements - True Confessions of a Hunchback.png",
             "disk": {
               "path": "Games/Battlements - True Confessions of a Hunchback.adf",
               "size": 901120,
@@ -967,6 +1053,19 @@
             }
           },
           {
+            "id": "games/cross-over",
+            "name": "Cross Over",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Cross Over.adf",
+              "size": 901120,
+              "label": "Cross-Over",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 3
+            }
+          },
+          {
             "id": "games/crystal-caverns",
             "name": "Crystal Caverns",
             "image": "Games.png",
@@ -974,6 +1073,45 @@
               "path": "Games/Crystal Caverns.adf",
               "size": 901120,
               "label": "Crystal Caverns",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/d-rez-4-7",
+            "name": "D-Rez 4.7",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/D-Rez 4.7.adf",
+              "size": 901120,
+              "label": "apd145",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 3
+            }
+          },
+          {
+            "id": "games/darts",
+            "name": "Darts",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Darts.adf",
+              "size": 901120,
+              "label": "Dart",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 4
+            }
+          },
+          {
+            "id": "games/demolition-mission",
+            "name": "Demolition Mission",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Demolition Mission.adf",
+              "size": 901120,
+              "label": "DemoMiss",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
@@ -1032,6 +1170,19 @@
             }
           },
           {
+            "id": "games/match-stick-man-1-4",
+            "name": "Match Stick Man 1.4",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Match Stick Man 1.4.adf",
+              "size": 901120,
+              "label": "msm1.4",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
             "id": "games/matrix-blaster",
             "name": "Matrix Blaster",
             "image": "Games.png",
@@ -1040,6 +1191,32 @@
               "size": 901120,
               "label": "MatrixBlaster",
               "filesystem": "FFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/mexican-massacre",
+            "name": "Mexican Massacre",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Mexican Massacre.adf",
+              "size": 901120,
+              "label": "AMOS",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 2
+            }
+          },
+          {
+            "id": "games/money-cascade-fruit-machine",
+            "name": "Money Cascade Fruit Machine",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Money Cascade Fruit Machine.adf",
+              "size": 901120,
+              "label": "MoneyCascade",
+              "filesystem": "OFS",
               "bootable": true,
               "programs": 1
             }
@@ -1058,6 +1235,71 @@
             }
           },
           {
+            "id": "games/mugsie-s-revenge-hired-hoods",
+            "name": "Mugsie's Revenge - Hired Hoods",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Mugsie's Revenge - Hired Hoods.adf",
+              "size": 901120,
+              "label": "HiredHoods",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/pair-crazy",
+            "name": "Pair Crazy",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Pair Crazy.adf",
+              "size": 901120,
+              "label": "APD142",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/picture-puzzle-1-0",
+            "name": "Picture Puzzle 1.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Picture Puzzle 1.0.adf",
+              "size": 901120,
+              "label": "PD Wheatstone",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/punter-3-0",
+            "name": "Punter 3.0",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Punter 3.0.adf",
+              "size": 901120,
+              "label": "PUNTER_V3",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/puzzi-in-a-dirty-smelly-birthday",
+            "name": "Puzzi in a Dirty Smelly Birthday",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Puzzi in a Dirty Smelly Birthday.adf",
+              "size": 901120,
+              "label": "Action Replay Amiga",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
             "id": "games/qboid",
             "name": "Qboid",
             "image": "Games.png",
@@ -1065,6 +1307,19 @@
               "path": "Games/Qboid.adf",
               "size": 901120,
               "label": "Q-boid",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/reel-skill",
+            "name": "Reel Skill",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Reel Skill.adf",
+              "size": 901120,
+              "label": "Sproing",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
@@ -1097,19 +1352,6 @@
             }
           },
           {
-            "id": "games/roach-motel",
-            "name": "Roach Motel",
-            "image": "Games.png",
-            "disk": {
-              "path": "Games/Roach Motel.adf",
-              "size": 901120,
-              "label": "RoachMotel!",
-              "filesystem": "OFS",
-              "bootable": true,
-              "programs": 1
-            }
-          },
-          {
             "id": "games/tank-battle",
             "name": "Tank Battle",
             "image": "Games.png",
@@ -1125,7 +1367,7 @@
           {
             "id": "games/teratris-3-0-beta",
             "name": "Teratris 3.0 beta",
-            "image": "Games.png",
+            "image": "Games/Teratris 3.0 beta.png",
             "disk": {
               "path": "Games/Teratris 3.0 beta.adf",
               "size": 901120,
@@ -1143,6 +1385,32 @@
               "path": "Games/The Great Escape of Billy Burglar.adf",
               "size": 901120,
               "label": "Escape",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
+            }
+          },
+          {
+            "id": "games/the-wooden-ball-1-00",
+            "name": "The Wooden Ball 1.00",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/The Wooden Ball 1.00.adf",
+              "size": 901120,
+              "label": "WoodenBall",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 2
+            }
+          },
+          {
+            "id": "games/tile-trial",
+            "name": "Tile Trial",
+            "image": "Games.png",
+            "disk": {
+              "path": "Games/Tile Trial.adf",
+              "size": 901120,
+              "label": "Apd137",
               "filesystem": "OFS",
               "bootable": true,
               "programs": 1
@@ -1185,6 +1453,27 @@
               "filesystem": null,
               "bootable": false,
               "programs": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "Utils",
+        "id": "utils",
+        "image": null,
+        "folders": [],
+        "items": [
+          {
+            "id": "utils/roach-motel",
+            "name": "Roach Motel",
+            "image": null,
+            "disk": {
+              "path": "Utils/Roach Motel.adf",
+              "size": 901120,
+              "label": "RoachMotel!",
+              "filesystem": "OFS",
+              "bootable": true,
+              "programs": 1
             }
           }
         ]
