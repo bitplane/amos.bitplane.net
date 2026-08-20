@@ -977,7 +977,7 @@
           {
             "id": "games/4-way-lynx-1-11",
             "name": "4-Way Lynx 1.11",
-            "image": "Games.png",
+            "image": "Games/4-Way Lynx 1.11.png",
             "disk": {
               "path": "Games/4-Way Lynx 1.11.adf",
               "size": 901120,
@@ -1081,7 +1081,7 @@
           {
             "id": "games/d-rez-4-7",
             "name": "D-Rez 4.7",
-            "image": "Games.png",
+            "image": "Games/D-Rez 4.7.png",
             "disk": {
               "path": "Games/D-Rez 4.7.adf",
               "size": 901120,
@@ -1250,7 +1250,7 @@
           {
             "id": "games/pair-crazy",
             "name": "Pair Crazy",
-            "image": "Games.png",
+            "image": "Games/Pair Crazy.png",
             "disk": {
               "path": "Games/Pair Crazy.adf",
               "size": 901120,
@@ -1393,7 +1393,7 @@
           {
             "id": "games/the-wooden-ball-1-00",
             "name": "The Wooden Ball 1.00",
-            "image": "Games.png",
+            "image": "Games/The Wooden Ball 1.00.png",
             "disk": {
               "path": "Games/The Wooden Ball 1.00.adf",
               "size": 901120,
@@ -1406,7 +1406,7 @@
           {
             "id": "games/tile-trial",
             "name": "Tile Trial",
-            "image": "Games.png",
+            "image": "Games/Tile Trial.png",
             "disk": {
               "path": "Games/Tile Trial.adf",
               "size": 901120,
@@ -1419,7 +1419,7 @@
           {
             "id": "games/firepower-1-01",
             "name": "FirePower 1.01",
-            "image": "Games.png",
+            "image": "Games/FirePower 1.01.png",
             "disk": {
               "path": "Games/FirePower 1.01.zip",
               "size": 336791,
