@@ -1523,7 +1523,7 @@
           {
             "id": "games/death-ride-2-0",
             "name": "Death Ride 2.0",
-            "image": "Games.png",
+            "image": "Games/Death Ride 2.0.png",
             "disk": {
               "path": "Games/Death Ride 2.0.lha",
               "size": 841735,
@@ -1549,7 +1549,7 @@
           {
             "id": "games/dragon",
             "name": "Dragon",
-            "image": "Games.png",
+            "image": "Games/Dragon.png",
             "disk": {
               "path": "Games/Dragon.lha",
               "size": 201800,
@@ -1562,7 +1562,7 @@
           {
             "id": "games/dungeon-walk",
             "name": "Dungeon Walk",
-            "image": "Games.png",
+            "image": "Games/Dungeon Walk.png",
             "disk": {
               "path": "Games/Dungeon Walk.lha",
               "size": 192555,
@@ -1666,7 +1666,7 @@
           {
             "id": "games/megatron",
             "name": "MegaTron",
-            "image": "Games.png",
+            "image": "Games/MegaTron.png",
             "disk": {
               "path": "Games/MegaTron.zip",
               "size": 153915,
@@ -1692,7 +1692,7 @@
           {
             "id": "games/ninja-mission-and-war-in-makeria",
             "name": "Ninja Mission and War in Makeria",
-            "image": "Games.png",
+            "image": "Games/Ninja Mission and War in Makeria.png",
             "disk": {
               "path": "Games/Ninja Mission and War in Makeria.lha",
               "size": 186352,
