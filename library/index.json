@@ -1068,7 +1068,7 @@
           {
             "id": "games/crystal-caverns",
             "name": "Crystal Caverns",
-            "image": "Games.png",
+            "image": "Games/Crystal Caverns.png",
             "disk": {
               "path": "Games/Crystal Caverns.adf",
               "size": 901120,
@@ -1302,7 +1302,7 @@
           {
             "id": "games/qboid",
             "name": "Qboid",
-            "image": "Games.png",
+            "image": "Games/Qboid.png",
             "disk": {
               "path": "Games/Qboid.adf",
               "size": 901120,
@@ -1354,7 +1354,7 @@
           {
             "id": "games/tank-battle",
             "name": "Tank Battle",
-            "image": "Games.png",
+            "image": "Games/Tank Battle.png",
             "disk": {
               "path": "Games/Tank Battle.adf",
               "size": 901120,
@@ -1460,13 +1460,13 @@
       {
         "name": "Utils",
         "id": "utils",
-        "image": null,
+        "image": "Utils.png",
         "folders": [],
         "items": [
           {
             "id": "utils/roach-motel",
             "name": "Roach Motel",
-            "image": null,
+            "image": "Utils.png",
             "disk": {
               "path": "Utils/Roach Motel.adf",
               "size": 901120,
