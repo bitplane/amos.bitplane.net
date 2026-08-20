@@ -1094,7 +1094,7 @@
           {
             "id": "games/darts",
             "name": "Darts",
-            "image": "Games.png",
+            "image": "Games/Darts.png",
             "disk": {
               "path": "Games/Darts.adf",
               "size": 901120,
@@ -1419,7 +1419,7 @@
           {
             "id": "games/3d-spaceships",
             "name": "3D Spaceships",
-            "image": "Games.png",
+            "image": "Games/3D Spaceships.png",
             "disk": {
               "path": "Games/3D Spaceships.lha",
               "size": 11352,
@@ -1458,7 +1458,7 @@
           {
             "id": "games/alien-breed-iii",
             "name": "Alien Breed III",
-            "image": "Games.png",
+            "image": "Games/Alien Breed III.png",
             "disk": {
               "path": "Games/Alien Breed III.lha",
               "size": 15077,
@@ -1484,7 +1484,7 @@
           {
             "id": "games/apfelmonster",
             "name": "Apfelmonster",
-            "image": "Games.png",
+            "image": "Games/Apfelmonster.png",
             "disk": {
               "path": "Games/Apfelmonster.zip",
               "size": 55416,
@@ -1510,7 +1510,7 @@
           {
             "id": "games/crack-out",
             "name": "Crack Out!",
-            "image": "Games.png",
+            "image": "Games/Crack Out!.png",
             "disk": {
               "path": "Games/Crack Out!.zip",
               "size": 386032,
@@ -1536,7 +1536,7 @@
           {
             "id": "games/dizzy-clone",
             "name": "Dizzy Clone",
-            "image": "Games.png",
+            "image": "Games/Dizzy Clone.png",
             "disk": {
               "path": "Games/Dizzy Clone.lha",
               "size": 47440,
@@ -1718,7 +1718,7 @@
           {
             "id": "games/strike-commander",
             "name": "Strike Commander",
-            "image": "Games.png",
+            "image": "Games/Strike Commander.png",
             "disk": {
               "path": "Games/Strike Commander.zip",
               "size": 213251,
@@ -1731,7 +1731,7 @@
           {
             "id": "games/tank-action",
             "name": "Tank Action",
-            "image": "Games.png",
+            "image": "Games/Tank Action.png",
             "disk": {
               "path": "Games/Tank Action.zip",
               "size": 16462,
@@ -1744,7 +1744,7 @@
           {
             "id": "games/the-final-battle",
             "name": "The Final Battle",
-            "image": "Games.png",
+            "image": "Games/The Final Battle.png",
             "disk": {
               "path": "Games/The Final Battle.zip",
               "size": 182704,
@@ -1757,7 +1757,7 @@
           {
             "id": "games/tubes",
             "name": "Tubes",
-            "image": "Games.png",
+            "image": "Games/Tubes.png",
             "disk": {
               "path": "Games/Tubes.zip",
               "size": 378698,
@@ -1770,7 +1770,7 @@
           {
             "id": "games/vargolle",
             "name": "Vargolle",
-            "image": "Games.png",
+            "image": "Games/Vargolle.png",
             "disk": {
               "path": "Games/Vargolle.lha",
               "size": 55909,
