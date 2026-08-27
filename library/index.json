@@ -1471,7 +1471,7 @@
           {
             "id": "games/amotrix",
             "name": "Amotrix",
-            "image": "Games.png",
+            "image": "Games/Amotrix.png",
             "disk": {
               "path": "Games/Amotrix.zip",
               "size": 71681,
