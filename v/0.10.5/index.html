@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>amos-ts</title>
+    <script type="module" crossorigin src="./assets/standalone.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index.css">
+  </head>
+  <body>
+    <header id="top">
+      <div class="wrap">
+        <!--
+          The same shape bitplane.net wears: the site on the left, its rooms on
+          the right, and every bracket and pipe in .slash so the words are what
+          you read. This page is a room of that site, so it says so first.
+        -->
+        <nav id="sitenav">
+          <span id="brand"
+            ><a href="https://amos.bitplane.net/">amos.</a><a href="https://bitplane.net">bitplane.net</a
+            ><span id="version" title="which build of the player this page loaded"></span
+          ></span>
+          <span id="sitelinks"
+            ><span class="slash">[</span><a href="https://bitplane.net/dev/amos/">home</a
+            ><span class="slash">|</span><a href="https://github.com/bitplane/amos-ts">src</a
+            ><span class="slash">|</span><a href="https://www.npmjs.com/package/amos-ts">npm</a
+            ><span class="slash">]</span></span
+          >
+        </nav>
+        <h1 id="title">amos-ts</h1>
+        <nav id="tabbar"></nav>
+        <div id="strip-host"></div>
+      </div>
+    </header>
+
+    <main class="wrap" id="panels">
+      <div id="panel-emulator">
+        <div id="player"></div>
+      </div>
+
+      <div id="panel-files">
+        <p class="panel-intro">
+          Drop .AMOS programs, data files, folders, zips or .adf disk images anywhere on the page,
+          or pick them below. Click a drawer to open it, a row to see what is inside it, and
+          <em>get</em> to save anything back onto this computer.
+        </p>
+        <div id="filebar">
+          <input type="file" id="file" accept=".amos,.AMOS,.txt,.zip,.tar,.gz,.abk,.iff,.adf" multiple />
+        </div>
+        <div id="fstree"></div>
+      </div>
+    </main>
+
+  </body>
+</html>
